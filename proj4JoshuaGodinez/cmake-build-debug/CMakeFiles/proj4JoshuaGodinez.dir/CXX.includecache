@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/proj4JoshuaGodinez/compiler.h
+string
+-
+
+/home/student/Desktop/proj4JoshuaGodinez/inputbuf.h
+string
+-
+vector
+-
+
+/home/student/Desktop/proj4JoshuaGodinez/ir_debug.h
+compiler.h
+/home/student/Desktop/proj4JoshuaGodinez/compiler.h
+
+/home/student/Desktop/proj4JoshuaGodinez/lexer.h
+vector
+-
+string
+-
+inputbuf.h
+/home/student/Desktop/proj4JoshuaGodinez/inputbuf.h
+
+/home/student/Desktop/proj4JoshuaGodinez/parser.cc
+cstdio
+-
+cstdlib
+-
+string.h
+-
+stdlib.h
+-
+ir_debug.h
+/home/student/Desktop/proj4JoshuaGodinez/ir_debug.h
+compiler.h
+/home/student/Desktop/proj4JoshuaGodinez/compiler.h
+lexer.h
+/home/student/Desktop/proj4JoshuaGodinez/lexer.h
+
