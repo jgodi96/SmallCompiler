@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/project1JoshuaGodinez.dir/inputbuf.cc.o CMakeFiles/project1JoshuaGodinez.dir/lexer.cc.o CMakeFiles/project1JoshuaGodinez.dir/parser.cc.o  -o project1JoshuaGodinez 
