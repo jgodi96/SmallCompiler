@@ -1,3 +1,0 @@
-/home/student/Desktop/project1JoshuaGodinez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/student/Desktop/project1JoshuaGodinez/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/student/Desktop/project1JoshuaGodinez/cmake-build-debug/CMakeFiles/project1JoshuaGodinez.dir
